@@ -16,7 +16,7 @@ module.exports = {
     fontFamily: {
       custom: ['CustomFont', 'sans-serif'],
       custom2: ['ABeeZee', 'sans-serif'],
-      custom3: ['CustomFont2'],
+      custom3: ['Southam Demo','sans-serif'],
     },
   },
   plugins: [],
